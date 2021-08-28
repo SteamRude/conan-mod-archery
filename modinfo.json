@@ -1,0 +1,16 @@
+{
+	"name": "Rude Archery",
+	"description": "",
+	"changeNote": "",
+	"author": "Rudeboy",
+	"authorUrl": "",
+	"versionMajor": 0,
+	"versionMinor": 1,
+	"versionBuild": 1,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "",
+	"steamVisibility": 2,
+	"folderName": "RudeArchery",
+	"revisionNumber": 314055,
+	"snapshotId": 30574
+}
